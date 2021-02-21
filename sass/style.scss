@@ -1,3 +1,11 @@
+body {
+    color: #333;
+    background-color: #eee;
+
+    font-family: 'Fira Code';
+    font-variant: small-caps;
+}
+
 hr {
     border: 0;
     height: 1px;
@@ -14,16 +22,18 @@ h1, h2, h3 {
 }
 
 h1 {
+    text-shadow: 1px 1px #333;
     text-align: center;
-    text-shadow: 1px 1px 1px gray;
 }
 
-body {
-    color: #333;
-    background-color: #eee;
+a, a:visited {
+    text-decoration: none !important;
+    color: #cc584c;
+    font-weight: bold;
+}
 
-    font-family: 'Fira Code';
-    font-variant: small-caps;
+a:hover {
+    text-shadow: 1px 1px 1px gray;
 }
 
 .main_article {
@@ -37,19 +47,10 @@ body {
 
     padding-left: 1em;
     padding-bottom: 5em;
+    padding-top: 1em;
 
     margin-left: 10%;
     margin-right: 10%;
 
     min-height: 100vh;
-}
-
-a, a:visited {
-    text-decoration: none !important;
-    color: #cc584c;
-    font-weight: bold;
-}
-
-a:hover {
-    text-shadow: 1px 1px 1px gray;
 }

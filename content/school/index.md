@@ -1,4 +1,5 @@
 +++
+title = "School work"
 +++
 
 ### Bachelor thesis
