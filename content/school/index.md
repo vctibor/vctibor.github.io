@@ -9,6 +9,6 @@ Objective of this work is to describe utilization of *R* programming language fo
 
 ### Diploma thesis
 
-This diploma thesis concerns itself with analysis and quantification of reduction of errors and vulnerabilities in software implemented in Rust programming lanmguage. Rust is modern systems programming language competing with C and C++. Compared to these languages it offers protection against common memory management bugs (buffer overflow, use after free, double free, etc). Although Rust's advantages seem intuitive,currently there is little to no data examining real world programs and actually quantifying how much - if at all - Rust improves efforts to create safer systems. This work is dedicated to performing such esearch.
+This diploma thesis concerns itself with analysis and quantification of reduction of errors and vulnerabilities in software implemented in Rust programming lanmguage. Rust is modern systems programming language competing with C and C++. Compared to these languages it offers protection against common memory management bugs (buffer overflow, use after free, double free, etc). Although Rust's advantages seem intuitive, currently there is little to no data examining real world programs and actually quantifying how much - if at all - Rust improves efforts to create safer systems. This work is dedicated to performing such research.
 
 (work in progress)
