@@ -19,3 +19,31 @@ body {
     background-color: #eee;
     font-family: 'Fira Code';
 }
+
+.main_article {
+    background-color: #f8f8f8;
+    box-shadow: 2px 2px 5px grey;
+    
+    border-style: solid;
+    border-color: #333;
+    border-width: 1px;
+    border-radius: 5px;
+
+    padding-left: 1em;
+    padding-bottom: 5em;
+
+    margin-left: 10%;
+    margin-right: 10%;
+
+    min-height: 100vh;
+}
+
+a, a:visited {
+    text-decoration: none !important;
+    color: black;
+    font-weight: bold;
+}
+
+a:hover {
+    text-shadow: 1px 1px 1px gray;
+}
