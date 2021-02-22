@@ -1,5 +1,7 @@
 +++
 title = "School work"
+description = "Various things stemming (heh!) from my educational endeavours."
+draft = false
 +++
 
 ### Bachelor thesis

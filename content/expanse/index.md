@@ -1,5 +1,7 @@
 +++
 title = "Expanse"
+description = "My thoughts on topic of humanity growing beyond its homeworld."
+draft = true
 +++
 
 ### Orbital primer

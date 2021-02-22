@@ -1,5 +1,7 @@
 +++
 title = "Orbital mechanics primer"
+description = "If we want to have any serious discussion about expansion into space we first need at least some basic understanding of how spaceflight works."
+draft = true
 +++
 
 ### What is orbit?!
