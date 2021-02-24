@@ -4,6 +4,8 @@ body {
 
     font-family: 'Fira Code';
     font-variant: small-caps;
+
+    text-align: justify;
 }
 
 hr {
@@ -46,8 +48,9 @@ a:hover {
     border-radius: 5px;
 
     padding-left: 1em;
-    padding-bottom: 5em;
+    padding-right: 5em;
     padding-top: 1em;
+    padding-bottom: 5em;
 
     margin-left: 10%;
     margin-right: 10%;

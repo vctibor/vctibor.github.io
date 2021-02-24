@@ -1,6 +1,7 @@
 +++
 title = "School work"
 description = "Various things stemming (heh!) from my educational endeavours."
+lang = "en"
 draft = false
 +++
 
