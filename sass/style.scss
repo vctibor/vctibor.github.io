@@ -3,7 +3,6 @@ body {
     background-color: #eee;
 
     font-family: 'Fira Code';
-    font-variant: small-caps;
 
     text-align: justify;
 }
@@ -20,6 +19,8 @@ hr {
 }
 
 h1, h2, h3 {
+
+    font-variant: small-caps;
     color: #cc584c;
 }
 
@@ -36,6 +37,17 @@ a, a:visited {
 
 a:hover {
     text-shadow: 1px 1px 1px gray;
+}
+
+pre {
+    background-color: #f8f8f8 !important;
+}
+
+pre code, code {
+    color: black;
+    font-family: 'Fira Code';
+    font-variant: small-caps;
+    font-weight: 400;
 }
 
 .main_article {
